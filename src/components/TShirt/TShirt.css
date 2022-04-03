@@ -1,0 +1,7 @@
+.tshirt{
+    height: 600px;
+}
+
+.tshirt > img{
+    height: 250px;
+}
